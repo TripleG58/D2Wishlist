@@ -1,0 +1,42 @@
+// Eyasluna (PvE)
+//notes:PvE-
+dimwishlist:item=235827225&perks=124408337
+
+// Retraced Path (PvE)
+//notes:PvE-
+dimwishlist:item=548958835&perks=2610012052
+dimwishlist:item=548958835&perks=1820235745,3523296417
+dimwishlist:item=548958835&perks=1683379515
+
+// Wastelander M5 (PvE)
+//notes:PvE-
+dimwishlist:item=1679868061&perks=1047830412,3161816588,2679249093
+
+// Hero of Ages (PvE)
+//notes:PvE-
+dimwishlist:item=2139640995&perks=3666208348,2349202967,3523296417,2396489472
+
+// Matador 64 (PvE)
+//notes:PvE-
+dimwishlist:item=2563012876&perks=1047830412,791862061,2610012052
+
+// BxR-55 Battler (PvE)
+//notes:PvE-
+dimwishlist:item=2708806099&perks=3523296417,454085387
+
+// Half-Truths (PvE)
+//notes:PvE-
+dimwishlist:item=3257091166&perks=3666208348,2349202967,3705817207,2077819806
+
+// The Other Half (PvE)
+//notes:PvE-
+dimwishlist:item=3257091167&perks=3666208348,2349202967,2077819806,1546637391
+
+// Pardon Our Dust (PvE)
+//notes:PvE-
+dimwishlist:item=3849810018&perks=3032599245,3300816228,3523296417
+
+// 1000 Yard Stare (PvE)
+//notes:PvE-
+dimwishlist:item=4164201232&perks=1840239774,3177308360,280464955,2610012052,384158423
+
