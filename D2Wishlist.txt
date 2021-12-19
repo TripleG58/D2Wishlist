@@ -10,7 +10,7 @@ dimwishlist:item=548958835&perks=1683379515
 
 // Wastelander M5 (PvE)
 //notes:PvE-
-dimwishlist:item=1679868061&perks=1047830412,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,2679249093
 
 // Hero of Ages (PvE)
 //notes:PvE-
@@ -23,6 +23,7 @@ dimwishlist:item=2563012876&perks=1047830412,791862061,2610012052
 // BxR-55 Battler (PvE)
 //notes:PvE-
 dimwishlist:item=2708806099&perks=3523296417,454085387
+dimwishlist:item=2708806099&perks=3300816228,454085387
 
 // Half-Truths (PvE)
 //notes:PvE-
@@ -39,4 +40,12 @@ dimwishlist:item=3849810018&perks=3032599245,3300816228,3523296417
 // 1000 Yard Stare (PvE)
 //notes:PvE-
 dimwishlist:item=4164201232&perks=1840239774,3177308360,280464955,2610012052,384158423
+
+// Legal Action II (PvE)
+//notes:PvE-
+dimwishlist:item=3409645497&perks=1774574192
+
+// Spoiler Alert (PvE)
+//notes:PvE-
+dimwishlist:item=2588048270&perks=1774574192
 
