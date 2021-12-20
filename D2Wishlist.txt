@@ -172,3 +172,67 @@ dimwishlist:item=4164201232&perks=1840239774,3230963543,706527188,957782887,1863
 dimwishlist:item=4164201232&perks=1840239774,106909392,706527188,957782887,384158423
 dimwishlist:item=4164201232&perks=1840239774,3230963543,706527188,957782887,384158423
 
+// The Last Breath (PvE)
+//notes:PvE-
+dimwishlist:item=507038823&perks=3523296417,1774574192
+
+// Scathelocke (PvE)
+//notes:PvE-
+dimwishlist:item=602618796&perks=3436462433,3350417888
+
+// Chroma Rush (PvE)
+//notes:PvE-
+dimwishlist:item=1119734784&perks=1820235745,3592538738
+dimwishlist:item=1119734784&perks=1820235745,2726471870
+
+// Tigerspite (PvE)
+//notes:PvE-
+dimwishlist:item=640114618&perks=1820235745,3523296417
+
+// Seventh Seraph Carbine (PvE)
+//notes:PvE-
+dimwishlist:item=1561006927&perks=3300816228,1546637391
+
+// Horror Story (PvE)
+//notes:PvE-
+dimwishlist:item=3829285960&perks=1820235745,3523296417
+
+// Gnawing Hunger (PvE)
+//notes:PvE-
+dimwishlist:item=821154603&perks=1820235745,3523296417
+dimwishlist:item=821154603&perks=3300816228
+
+// The Number (PvE)
+//notes:PvE-
+dimwishlist:item=2492081469&perks=3436462433,3592538738
+dimwishlist:item=2492081469&perks=3436462433
+dimwishlist:item=2492081469&perks=3350417888
+
+// Sorrow's Verse (PvE)
+//notes:PvE-
+dimwishlist:item=2496875173&perks=1820235745,3523296417
+dimwishlist:item=2496875173&perks=1820235745,438098033
+dimwishlist:item=2496875173&perks=438098033
+dimwishlist:item=2496875173&perks=2726471870
+dimwishlist:item=2496875173&perks=1820235745,2726471870
+dimwishlist:item=2496875173&perks=1820235745,3592538738
+
+// Arc Logic (PvE)
+//notes:PvE-
+dimwishlist:item=2723909519&perks=1820235745,3592538738
+dimwishlist:item=2723909519&perks=1820235745,3523296417
+dimwishlist:item=2723909519&perks=3643424744,3523296417
+dimwishlist:item=2723909519&perks=3643424744,3592538738
+dimwishlist:item=2723909519&perks=3436462433,3350417888
+dimwishlist:item=2723909519&perks=3350417888
+
+// Reckless Oracle (PvE)
+//notes:PvE-
+dimwishlist:item=3385326721&perks=3300816228,3523296417
+dimwishlist:item=3385326721&perks=3513791699,3523296417
+dimwishlist:item=3385326721&perks=3523296417
+dimwishlist:item=3385326721&perks=3513791699,3400784728
+dimwishlist:item=3385326721&perks=1168162263,1015611457
+dimwishlist:item=3385326721&perks=1885400500
+dimwishlist:item=3385326721&perks=1968497646
+
