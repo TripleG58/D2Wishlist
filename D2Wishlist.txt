@@ -4,6 +4,7 @@ dimwishlist:item=235827225&perks=124408337
 dimwishlist:item=235827225&perks=3523296417
 dimwishlist:item=235827225&perks=1168162263,1015611457
 dimwishlist:item=235827225&perks=247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094
 
 // Retraced Path (PvE)
 //notes:PvE-
@@ -43,6 +44,8 @@ dimwishlist:item=2708806099&perks=957782887,2846385770
 // Half-Truths (PvE)
 //notes:PvE-
 dimwishlist:item=3257091166&perks=3666208348,2349202967,3705817207,2077819806
+dimwishlist:item=3257091166&perks=2726471870,2077819806
+dimwishlist:item=3257091166&perks=2349202967,2726471870,2077819806
 
 // The Other Half (PvE)
 //notes:PvE-
@@ -86,11 +89,19 @@ dimwishlist:item=2990047042&perks=3661387068,2420895100,2039302152,957782887,384
 dimwishlist:item=2990047042&perks=3661387068,3177308360,1523832109,1774574192,384158423
 dimwishlist:item=2990047042&perks=839105230,3177308360,2039302152,2726471870,384158423
 dimwishlist:item=2990047042&perks=839105230,3177308360,2039302152,1546637391,384158423
+dimwishlist:item=2990047042&perks=1523832109,957782887,150943607
+dimwishlist:item=2990047042&perks=1523832109,1774574192,150943607
+dimwishlist:item=2990047042&perks=1523832109,2726471870,150943607
+dimwishlist:item=2990047042&perks=1523832109,469285294,150943607
+dimwishlist:item=2990047042&perks=1523832109,1546637391,150943607
 
 // Bite of the Fox (PvP)
 //notes:PvP-
 dimwishlist:item=3169616514&perks=839105230,3230963543,957782887,3038247973
 dimwishlist:item=3169616514&perks=839105230,3230963543,957782887,47981717
+dimwishlist:item=3169616514&perks=957782887,3038247973
+dimwishlist:item=3169616514&perks=3038247973
+dimwishlist:item=3169616514&perks=957782887,47981717
 
 // Supremacy (PvE)
 //notes:PvE-
@@ -154,10 +165,13 @@ dimwishlist:item=3326850591&perks=1840239774,1885400500,2621346526,957782887,186
 // The Long Walk (PvE)
 //notes:PvE-
 dimwishlist:item=3326850591&perks=1840239774,1968497646,3161816588,957782887,384158423
+dimwishlist:item=3326850591&perks=3643424744,957782887
+dimwishlist:item=3326850591&perks=957782887
 
 // Frozen Orbit (PvP)
 //notes:PvP-
 dimwishlist:item=3473290087&perks=1840239774,3230963543,3436462433,957782887,186337601
+dimwishlist:item=3473290087&perks=957782887
 
 // Frozen Orbit (PvE)
 //notes:PvE-
@@ -178,6 +192,9 @@ dimwishlist:item=3653573172&perks=1840239774,3177308360,1774574192,3824105627,38
 dimwishlist:item=4164201232&perks=1840239774,3230963543,706527188,957782887,186337601
 dimwishlist:item=4164201232&perks=1840239774,106909392,706527188,957782887,384158423
 dimwishlist:item=4164201232&perks=1840239774,3230963543,706527188,957782887,384158423
+dimwishlist:item=4164201232&perks=706527188,957782887
+dimwishlist:item=4164201232&perks=957782887
+dimwishlist:item=4164201232&perks=706527188
 
 // The Last Breath (PvE)
 //notes:PvE-
@@ -403,4 +420,138 @@ dimwishlist:item=577528837&perks=3436462433,1015611457,186337601
 //notes:PvE-
 dimwishlist:item=577528837&perks=1820235745,2726471870,186337601
 dimwishlist:item=577528837&perks=2726471870,186337601
+
+// Riiswalker (PvE)
+//notes:PvE-
+dimwishlist:item=108221785&perks=3108830275
+
+// The Deicide (PvE)
+//notes:PvE-
+dimwishlist:item=217140611&perks=3108830275
+
+// One Small Step (PvE)
+//notes:PvE-
+dimwishlist:item=1016668089&perks=3108830275
+
+// Retrofuturist (PvE)
+//notes:PvE-
+dimwishlist:item=1402766122&perks=706527188,3108830275
+dimwishlist:item=1402766122&perks=3108830275
+
+// Xenoclast IV (PvE)
+//notes:PvE-
+dimwishlist:item=2891672170&perks=3108830275
+
+// Found Verdict (PvE)
+//notes:PvE-
+dimwishlist:item=3197270240&perks=3108830275
+
+// Heritage (PvE)
+//notes:PvE-
+dimwishlist:item=4248569242&perks=3108830275
+
+// Dead Man's Tale (PvE)
+//notes:PvE-
+dimwishlist:item=3654674561&perks=1840239774,1067908860,1301843770
+dimwishlist:item=3654674561&perks=1840239774,1301843770
+dimwishlist:item=3654674561&perks=1067908860,1301843770
+dimwishlist:item=3654674561&perks=1820235745,1301843770
+
+// Hero of Ages (PvE)
+//notes:PvE-
+dimwishlist:item=2139640995&perks=3523296417,2396489472
+dimwishlist:item=2139640995&perks=3108830275,2396489472
+dimwishlist:item=2139640995&perks=2349202967,3523296417,2396489472
+
+// Krait (PvE)
+//notes:PvE-
+dimwishlist:item=2852052802&perks=1820235745,3673922083
+dimwishlist:item=2852052802&perks=124408337
+dimwishlist:item=2852052802&perks=3300816228
+dimwishlist:item=2852052802&perks=1583705720,4049631843
+
+// Perses-D (PvE)
+//notes:PvE-
+dimwishlist:item=1019000888&perks=124408337
+
+// Silicon Neuroma (PvE)
+//notes:PvE-
+dimwishlist:item=3355385170&perks=1392496348,1885400500,957782887,3523296417,,2942552113
+dimwishlist:item=3355385170&perks=957782887
+dimwishlist:item=3355385170&perks=3523296417
+
+// Fortissimo-11 (PvE)
+//notes:PvE-
+dimwishlist:item=2821430069&perks=3523296417
+dimwishlist:item=2821430069&perks=3592538738
+dimwishlist:item=2821430069&perks=1774574192
+dimwishlist:item=2821430069&perks=3523296417,3592538738
+
+// Aisha's Embrace (PvE)
+//notes:PvE-
+dimwishlist:item=2638190703&perks=2896038713
+dimwishlist:item=2638190703&perks=3700496672
+
+// Ogma PR6 (PvE)
+//notes:PvE-
+dimwishlist:item=2342054803&perks=1048183818
+dimwishlist:item=2342054803&perks=1048183818,3871884143
+dimwishlist:item=2342054803&perks=3523296417
+dimwishlist:item=2342054803&perks=3592538738
+dimwishlist:item=2342054803&perks=3523296417,3592538738
+dimwishlist:item=2342054803&perks=3108830275,3865257976
+dimwishlist:item=2342054803&perks=1583705720,4049631843
+
+// Typhon GL5 (PvE)
+//notes:PvE-
+dimwishlist:item=3568377122&perks=3523296417,3592538738
+dimwishlist:item=3568377122&perks=3523296417
+dimwishlist:item=3568377122&perks=3592538738
+dimwishlist:item=3568377122&perks=3194351027
+dimwishlist:item=3568377122&perks=409831596
+dimwishlist:item=3568377122&perks=3301904089
+
+// Snorri FR5 (PvE)
+//notes:PvE-
+dimwishlist:item=4114929480&perks=830282363,1427256713,,3128594062
+
+// Funnelweb (PvE)
+//notes:PvE-
+dimwishlist:item=3341893443&perks=1820235745,2726471870
+
+// Funnelweb (PvP)
+//notes:PvP-
+dimwishlist:item=3341893443&perks=2450788523,2846385770
+
+// Cantata-57 (PvE)
+//notes:PvE-
+dimwishlist:item=372697604&perks=1954620775
+dimwishlist:item=372697604&perks=671806388,2846385770
+dimwishlist:item=372697604&perks=247725512,1954620775
+
+// Fugue-55 (PvE)
+//notes:PvE-
+dimwishlist:item=2233545123&perks=2551157718
+dimwishlist:item=2233545123&perks=3300816228,957782887
+dimwishlist:item=2233545123&perks=957782887
+dimwishlist:item=2233545123&perks=3300816228
+dimwishlist:item=2233545123&perks=1354429876,957782887
+
+// Frontier's Cry (PvE)
+//notes:PvE-
+dimwishlist:item=1141547457&perks=1048183818
+dimwishlist:item=1141547457&perks=1048183818,3673922083
+
+// Razor's Edge (PvE)
+//notes:PvE-
+dimwishlist:item=1796949035&perks=2726471870
+dimwishlist:item=1796949035&perks=3592538738
+dimwishlist:item=1796949035&perks=3592538738,2726471870
+dimwishlist:item=1796949035&perks=3108830275,2396489472
+
+// Crisis Inverted (PvE)
+//notes:PvE-
+dimwishlist:item=2888266564&perks=1048183818
+dimwishlist:item=2888266564&perks=3523296417
+dimwishlist:item=2888266564&perks=3523296417,1048183818
 
