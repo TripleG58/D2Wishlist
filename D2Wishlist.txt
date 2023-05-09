@@ -555,3 +555,6 @@ dimwishlist:item=2888266564&perks=1048183818
 dimwishlist:item=2888266564&perks=3523296417
 dimwishlist:item=2888266564&perks=3523296417,1048183818
 
+// Nasreddin (PvE)
+//notes:PvE- balanced guard benefits most from origin perk, Energy Transfer & Valiant charge combo. Extra DR from origin means many rifts/dodges/barricades/dives
+dimwishlist:item=1456017061&perks=3666208348,52780822,2030760728,4274614370
