@@ -1,1 +1,1 @@
-DIM displays first matching roll, so need to organize so that least amount of perks selected on rolls are at the bottom
+- DIM displays first matching roll, so need to organize so that least amount of perks selected on rolls are at the bottom
